@@ -1,4 +1,3 @@
-# garage_management_system
 GARAGE MANAGEMENT SYSTEM 
 
 DEFINITION: 
